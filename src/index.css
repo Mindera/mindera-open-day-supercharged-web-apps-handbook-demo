@@ -1,5 +1,35 @@
 body {
   margin: 0;
   padding: 0;
-  font-family: sans-serif;
+  font-family: "Helvetica Neue", sans-serif;
+}
+
+a,
+a:hover {
+  padding-bottom: 2px;
+  color: #ad1308;
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-bottom ease-in 0.2s;
+}
+
+a:hover {
+  border-bottom: 1px solid #ad1308;
+}
+
+p {
+  line-height: 1.3;
+}
+
+.articleFooter {
+  margin-top: 60px;
+  text-align: center;
+}
+
+.articleFooter img {
+  width: 300px;
+}
+
+.centered {
+  text-align: center;
 }
