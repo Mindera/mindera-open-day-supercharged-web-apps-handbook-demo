@@ -1,0 +1,6 @@
+#!/bin/bash
+
+cd "$(dirname ${BASH_SOURCE[0]})"
+cp *.pem ../build
+cd ../build
+simplehttp2server
