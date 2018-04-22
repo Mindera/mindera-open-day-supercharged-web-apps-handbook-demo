@@ -1,3 +1,9 @@
+# mindera-open-day-supercharged-web-apps-handbook-demo
+
+This is the demo app shown during the [Mindera Open Day Supercharged Web Apps Talk](https://github.com/tnunes/mindera-open-day-supercharged-web-apps).
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
